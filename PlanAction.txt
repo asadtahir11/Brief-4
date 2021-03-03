@@ -1,0 +1,13 @@
+# Realiser un Soundboard
+ ## Associer les bouttons avec les fichier mp3
+   ### Créer dans le html des balises audio qui contiennent les liens des fichier mp3
+   ### Relier les 2 dans une fonction JS
+ ## Associer les bouttons avec les touches du clavier 
+   ### Relier les 2 dans une fonction JS
+ ## Au click, lancer le fichier mp3 lié au boutton associé 
+   ### Le faire dans une fonction JS 
+ ## Au click ou à l'appuie des touche associer aux bouttons, changer la class du boutton pendant toute la
+   durée du fichier mp3
+   ### Ajouter la class créer dans le css aux bouttons à l'aide du JS
+ ## Rendre le bail responsive
+   ### Dans le CSS , faire un media screen et replacer les bouttons bien comme il faut 
